@@ -14,5 +14,21 @@
     "preview": {},
     "last_modified": "2020-08-27T14:39:18-04:00",
     "input_file": "welcome.utf8.md"
+  },
+  {
+    "path": "posts/second post/",
+    "title": "Thoughts on Miller, Newell, and Schatcher et, al Papers..",
+    "description": "This thought piece on the above articles.",
+    "author": [
+      {
+        "name": "Karen Rodriguez",
+        "url": "https://karenr61.github.io/KarensBlog/"
+      }
+    ],
+    "date": "2020-08-27",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-09-03T21:49:58-04:00",
+    "input_file": "second-post.utf8.md"
   }
 ]

@@ -1,0 +1,32 @@
+---
+title: "Thoughts on Miller, Newell, and Schatcher et, al Papers.."
+description: |
+  This thought piece on the above articles. 
+author:
+  - name: Karen Rodriguez
+    url: https://karenr61.github.io/KarensBlog/
+    affiliation: The Graduate Center
+    affiliation_url: https://gc.cuny.edu/Home
+date: 08-27-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+In discussing the three articles, "The Magical Number Seven, Plus or Minus Two" by George Miller,  "You can't play 20 questions with nature and win" by Allen Newell, and "Richard Semon's Theory of Memory" by Daniel Schatcher, there is a breadth of the areas to touch upon. To begin with, these articles provided a unique perspective on research at the time they were written and going forward. 
+
+In regards to the Miller paper, he addressed this fascination with the limits of memory capacity and the quantitative judgments tied to it. Throughout the paper, Miller reviews memory capacity studies to assess how scientists came to the conclusion of the "magical number seven".In doing so, Miller elaborated on what constitutes pieces of information (bits or chunks) which ultimately leads to the idea that "seven" is a bit of a formality. Ultimately, the fact that studies all lead to this is idea that seven is the limit is more of a coincidence than it is by nature. If anything, this conclusion speaks volumes as to the obsessions over quantitative judgments. 
+
+Daniel Schatcher also analyzed past memory research in his review, but with a more focused lens on Richard Semon. Schatcher argues that Semon has contributed substantial ideas in the realm of retrieval as an integral portion of the memory process, as well as fragmentation theory. His work contributed tremendously to later studies on the retrieval, but were not recognized during his time. In the 1920's, scientists were not interested in retrieval as part of memory, rather as a measurement or it or retention. In addition, Semon used language that was difficult to digest at the time, and he lacked his own empirical evidence to back up his theories. Nonetheless, his work still makes an impact today, and demonstrates that over time, science will inevitably build upon itself even in the face of rejection or adversity. 
+
+Lastly, Allen Newell's piece was the most interesting in terms of its implications for research as a whole going forward. Newell uses this piece, that was meant to review new experimental findings, to criticize researchers and scientists on their current methodologies. The gist of his argument was that the science of that time did not "culmunate"or build upon itself; researchers seeked to address phenomena after phenomena without regard towards the complex, bigger research questions at hand. He stated that researchers were simply exploring phenomena and binary oppositions or support for it, as opposed to adding on to the current literature in a way that contributes to the "finding the answer" to these theoretical questions (or getting close to it). Throughout this reading, I felt as if I was seeing a timeline unfold before me of how the research I digest today has came to be. We are now familiar with research being conducted similarly to what Newell would've wanted, but the beginnings were far different. It shows that science has progressed in remarkable ways, making it so we move forward instead of remaining stagnant.
+
+The pieces above altered my perspective on scientific findings and encouraged to look past the face value of the studies I read. It can be easy to get lost in the details and intricacies of the cognitive research, which is why it is important to take a step back and view the work from a different lens or more broad context. 
