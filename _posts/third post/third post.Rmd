@@ -1,0 +1,48 @@
+---
+title: "Thoughts on this week's papers"
+description: |
+  Analysis and opinions on the literature assigned this week. 
+author:
+  - name: Karen Rodriguez
+    url: https://karenr61.github.io/KarensBlog/
+    affiliation: The Graduate Center
+    affiliation_url: https://gc.cuny.edu/Home
+date: 09-11-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+-"The Semantic Librarian" demonstrated the process of creating a search engine designed to better match the intent of the individual
+searching for literature on cognitive psychology.
+Researchers in this study used vector space models to emulate the semantic space in which an individual may find the the information they intended on looking for. 
+Personally, it is exciting to see these kinds of the programs being created as it increases accessibility to academia on a grand scale. Not to mention, the methods used to create the program were based in cognitive psychology,showing the range of applicability in the field. 
+
+
+
+
+
+
+
+-The following article, "Instance Theory Predicts Information Theory", keystroke timing in regards to letter position and word length were analyzed to inform theories on general learning.
+The takeaway of the article is how instance theory draws parallels to information theory in that with instance theory, there is a level of automation in responses that are practiced. This is explained using reaction times, in that the larger the reaction time, the less practice the subject had. Similarly, with Shannon's H, the predictability of an outcome is measured by the value of H and the amount of information given.
+To see how these theories related to each other in the simple task of typing makes me contemplate how such a theory relates to more complex tasks than typing. 
+
+
+
+
+
+
+
+-Hintzman's piece on schema abstraction was, in all honesty, it was difficult for me to comprehend considering the amount of formulas and computational language used to explain the theories. For that reason, I'll focus on the theoretical ideas that stuck out the most to me. 
+The idea that the consistently being reinforced in this article is that there is only one memory system that is based on our experiences. What I found most interesting was how context influences concepts that we carry in this system. Hintzman explains this as one of the difficult problems schematic theorists encounter, considering the flexibility of these concepts. 
+The idea that our environment or situation can manipulate the way we categorize items or convey concepts demonstrates how intricate this memory system is, and probably why there have been theories about multiple systems instead of multiple traces considering of the large capacity this system has. 
+

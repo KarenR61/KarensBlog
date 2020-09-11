@@ -1,5 +1,21 @@
 [
   {
+    "path": "posts/third post/",
+    "title": "Thoughts on this week's papers",
+    "description": "Analysis and opinions on the literature assigned this week.",
+    "author": [
+      {
+        "name": "Karen Rodriguez",
+        "url": "https://karenr61.github.io/KarensBlog/"
+      }
+    ],
+    "date": "2020-09-11",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-09-10T21:56:28-04:00",
+    "input_file": "third-post.utf8.md"
+  },
+  {
     "path": "posts/welcome/",
     "title": "My First Post",
     "description": "This is a first post",
